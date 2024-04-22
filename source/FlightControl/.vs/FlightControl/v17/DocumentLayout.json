@@ -1,0 +1,868 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jedyn\\OneDrive\\Pulpit\\FlightControl\\source\\FlightControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.Test\\FlightControllerTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2077097E-7F0C-47E5-A763-772E19527337}|FlightControl.csproj|c:\\users\\jedyn\\onedrive\\pulpit\\flightcontrol\\source\\flightcontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2077097E-7F0C-47E5-A763-772E19527337}|FlightControl.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2077097E-7F0C-47E5-A763-772E19527337}|FlightControl.csproj|c:\\users\\jedyn\\onedrive\\pulpit\\flightcontrol\\source\\flightcontrol\\dtos\\flightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2077097E-7F0C-47E5-A763-772E19527337}|FlightControl.csproj|solutionrelative:dtos\\flightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2077097E-7F0C-47E5-A763-772E19527337}|FlightControl.csproj|c:\\users\\jedyn\\onedrive\\pulpit\\flightcontrol\\source\\flightcontrol\\dtos\\airportdtoflights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2077097E-7F0C-47E5-A763-772E19527337}|FlightControl.csproj|solutionrelative:dtos\\airportdtoflights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2077097E-7F0C-47E5-A763-772E19527337}|FlightControl.csproj|c:\\users\\jedyn\\onedrive\\pulpit\\flightcontrol\\source\\flightcontrol\\dtos\\airportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2077097E-7F0C-47E5-A763-772E19527337}|FlightControl.csproj|solutionrelative:dtos\\airportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2077097E-7F0C-47E5-A763-772E19527337}|FlightControl.csproj|c:\\users\\jedyn\\onedrive\\pulpit\\flightcontrol\\source\\flightcontrol\\controllers\\flightcontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2077097E-7F0C-47E5-A763-772E19527337}|FlightControl.csproj|solutionrelative:controllers\\flightcontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2077097E-7F0C-47E5-A763-772E19527337}|FlightControl.csproj|c:\\users\\jedyn\\onedrive\\pulpit\\flightcontrol\\source\\flightcontrol\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2077097E-7F0C-47E5-A763-772E19527337}|FlightControl.csproj|solutionrelative:controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2077097E-7F0C-47E5-A763-772E19527337}|FlightControl.csproj|c:\\users\\jedyn\\onedrive\\pulpit\\flightcontrol\\source\\flightcontrol\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2077097E-7F0C-47E5-A763-772E19527337}|FlightControl.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2077097E-7F0C-47E5-A763-772E19527337}|FlightControl.csproj|c:\\users\\jedyn\\onedrive\\pulpit\\flightcontrol\\source\\flightcontrol\\controllers\\airportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2077097E-7F0C-47E5-A763-772E19527337}|FlightControl.csproj|solutionrelative:controllers\\airportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2077097E-7F0C-47E5-A763-772E19527337}|FlightControl.csproj|c:\\users\\jedyn\\onedrive\\pulpit\\flightcontrol\\source\\flightcontrol\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2077097E-7F0C-47E5-A763-772E19527337}|FlightControl.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2077097E-7F0C-47E5-A763-772E19527337}|FlightControl.csproj|c:\\users\\jedyn\\onedrive\\pulpit\\flightcontrol\\source\\flightcontrol\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2077097E-7F0C-47E5-A763-772E19527337}|FlightControl.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2077097E-7F0C-47E5-A763-772E19527337}|FlightControl.csproj|c:\\users\\jedyn\\onedrive\\pulpit\\flightcontrol\\source\\flightcontrol\\flightcontrol.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2077097E-7F0C-47E5-A763-772E19527337}|FlightControl.csproj|solutionrelative:flightcontrol.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer\\FlightService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer\\TokenService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer\\BaseService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer\\AirportService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\DALTests\\BaseRepoTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\DALTests\\AirportsRepoTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL.Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL.Models\\Flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL.Models\\EntityBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL.Models\\Airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\MockRepos\\MockUsers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\MockRepos\\MockRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\MockRepos\\MockFlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\MockRepos\\MockAirports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer.Tests\\FlightControl.ServiceLayer.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\FlightControl.DAL.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer\\FlightControl.ServiceLayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer.Tests\\UserServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.Test\\AirportsControllerTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.Test\\AutControllerTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.Test\\MockConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.Test\\MockLogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer.Tests\\TokenServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer.Tests\\MockConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer.Tests\\FlightServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer.Tests\\BaseServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer.Tests\\AirportServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer\\IService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\DALTests\\UserRepoTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\DALTests\\TestDataInitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\DALTests\\FlightRepoTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL.Models\\FlightDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\UserRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\FlightRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\BaseRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\AirportsRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.Test\\FlightControl.Test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\Interfaces\\IAirportsRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\Interfaces\\IFlightRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL.Models\\FlightControl.DAL.Models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\Interfaces\\IRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\Interfaces\\IUserRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 190,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FlightService.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer\\FlightService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.ServiceLayer\\FlightService.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer\\FlightService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.ServiceLayer\\FlightService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T18:43:20.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer\\TokenService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.ServiceLayer\\TokenService.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer\\TokenService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.ServiceLayer\\TokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T15:21:51.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlightControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.Test\\FlightControllerTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.Test\\FlightControllerTest.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.Test\\FlightControllerTest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.Test\\FlightControllerTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T17:08:39.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer\\BaseService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.ServiceLayer\\BaseService.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer\\BaseService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.ServiceLayer\\BaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T13:21:05.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.ServiceLayer\\UserService.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer\\UserService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.ServiceLayer\\UserService.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowD0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:08:19.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AirportService.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer\\AirportService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.ServiceLayer\\AirportService.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer\\AirportService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.ServiceLayer\\AirportService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowEgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:40:39.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseRepoTests.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\DALTests\\BaseRepoTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\DALTests\\BaseRepoTests.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\DALTests\\BaseRepoTests.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\DALTests\\BaseRepoTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T21:09:28.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AirportsRepoTests.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\DALTests\\AirportsRepoTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\DALTests\\AirportsRepoTests.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\DALTests\\AirportsRepoTests.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\DALTests\\AirportsRepoTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:56:43.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL.Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL.Models\\User.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL.Models\\User.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL.Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:56:37.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL.Models\\Flight.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL.Models\\Flight.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL.Models\\Flight.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL.Models\\Flight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:56:24.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL.Models\\EntityBase.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL.Models\\EntityBase.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL.Models\\EntityBase.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL.Models\\EntityBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:56:21.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Airport.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL.Models\\Airport.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL.Models\\Airport.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL.Models\\Airport.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL.Models\\Airport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:56:12.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MockUsers.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\MockRepos\\MockUsers.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL\\MockRepos\\MockUsers.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\MockRepos\\MockUsers.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL\\MockRepos\\MockUsers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T23:09:07.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MockRepo.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\MockRepos\\MockRepo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL\\MockRepos\\MockRepo.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\MockRepos\\MockRepo.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL\\MockRepos\\MockRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T23:09:04.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MockFlight.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\MockRepos\\MockFlight.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL\\MockRepos\\MockFlight.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\MockRepos\\MockFlight.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL\\MockRepos\\MockFlight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T23:09:02.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MockAirports.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\MockRepos\\MockAirports.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL\\MockRepos\\MockAirports.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\MockRepos\\MockAirports.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL\\MockRepos\\MockAirports.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T23:08:26.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlightDTO.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\OneDrive\\Pulpit\\FlightControl\\source\\FlightControl\\DTOs\\FlightDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\FlightDTO.cs",
+              "ToolTip": "C:\\Users\\jedyn\\OneDrive\\Pulpit\\FlightControl\\source\\FlightControl\\DTOs\\FlightDTO.cs",
+              "RelativeToolTip": "DTOs\\FlightDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T13:54:45.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FlightControllerBase.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\OneDrive\\Pulpit\\FlightControl\\source\\FlightControl\\Controllers\\FlightControllerBase.cs",
+              "RelativeDocumentMoniker": "Controllers\\FlightControllerBase.cs",
+              "ToolTip": "C:\\Users\\jedyn\\OneDrive\\Pulpit\\FlightControl\\source\\FlightControl\\Controllers\\FlightControllerBase.cs",
+              "RelativeToolTip": "Controllers\\FlightControllerBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T09:16:26.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FlightController.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\OneDrive\\Pulpit\\FlightControl\\source\\FlightControl\\Controllers\\FlightController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FlightController.cs",
+              "ToolTip": "C:\\Users\\jedyn\\OneDrive\\Pulpit\\FlightControl\\source\\FlightControl\\Controllers\\FlightController.cs",
+              "RelativeToolTip": "Controllers\\FlightController.cs",
+              "ViewState": "AQIAACYBAAAAAAAAAAAiwCsBAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T18:13:23.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\OneDrive\\Pulpit\\FlightControl\\source\\FlightControl\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\jedyn\\OneDrive\\Pulpit\\FlightControl\\source\\FlightControl\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAkwBsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T17:05:20.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AirportController.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\OneDrive\\Pulpit\\FlightControl\\source\\FlightControl\\Controllers\\AirportController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AirportController.cs",
+              "ToolTip": "C:\\Users\\jedyn\\OneDrive\\Pulpit\\FlightControl\\source\\FlightControl\\Controllers\\AirportController.cs",
+              "RelativeToolTip": "Controllers\\AirportController.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAADwv2gAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T09:43:28.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FlightControl.ServiceLayer.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer.Tests\\FlightControl.ServiceLayer.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.ServiceLayer.Tests\\FlightControl.ServiceLayer.Tests.csproj",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer.Tests\\FlightControl.ServiceLayer.Tests.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.ServiceLayer.Tests\\FlightControl.ServiceLayer.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-21T21:29:00.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FlightControl.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\FlightControl.DAL.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL\\FlightControl.DAL.csproj",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\FlightControl.DAL.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL\\FlightControl.DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T23:36:00.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FlightControl.ServiceLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer\\FlightControl.ServiceLayer.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.ServiceLayer\\FlightControl.ServiceLayer.csproj",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer\\FlightControl.ServiceLayer.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.ServiceLayer\\FlightControl.ServiceLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-21T21:28:58.873Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AutControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.Test\\AutControllerTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.Test\\AutControllerTest.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.Test\\AutControllerTest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.Test\\AutControllerTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:08:22.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MockConfig.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.Test\\MockConfig.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.Test\\MockConfig.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.Test\\MockConfig.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.Test\\MockConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:10:40.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MockLogger.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.Test\\MockLogger.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.Test\\MockLogger.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.Test\\MockLogger.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.Test\\MockLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T17:11:31.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AirportsControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.Test\\AirportsControllerTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.Test\\AirportsControllerTest.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.Test\\AirportsControllerTest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.Test\\AirportsControllerTest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T18:31:08.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer.Tests\\UserServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.ServiceLayer.Tests\\UserServiceTest.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer.Tests\\UserServiceTest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.ServiceLayer.Tests\\UserServiceTest.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAABsAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:09:01.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TokenServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer.Tests\\TokenServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.ServiceLayer.Tests\\TokenServiceTest.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer.Tests\\TokenServiceTest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.ServiceLayer.Tests\\TokenServiceTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:39:48.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MockConfig.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer.Tests\\MockConfig.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.ServiceLayer.Tests\\MockConfig.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer.Tests\\MockConfig.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.ServiceLayer.Tests\\MockConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:41:52.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FlightServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer.Tests\\FlightServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.ServiceLayer.Tests\\FlightServiceTest.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer.Tests\\FlightServiceTest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.ServiceLayer.Tests\\FlightServiceTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:39:16.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BaseServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer.Tests\\BaseServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.ServiceLayer.Tests\\BaseServiceTest.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer.Tests\\BaseServiceTest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.ServiceLayer.Tests\\BaseServiceTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:12:39.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AirportServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer.Tests\\AirportServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.ServiceLayer.Tests\\AirportServiceTest.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer.Tests\\AirportServiceTest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.ServiceLayer.Tests\\AirportServiceTest.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAiwCAAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:03:25.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer\\IService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.ServiceLayer\\IService.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.ServiceLayer\\IService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.ServiceLayer\\IService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T21:24:52.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserRepoTests.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\DALTests\\UserRepoTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\DALTests\\UserRepoTests.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\DALTests\\UserRepoTests.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\DALTests\\UserRepoTests.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAAAFAAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:56:46.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TestDataInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\DALTests\\TestDataInitializer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\DALTests\\TestDataInitializer.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\DALTests\\TestDataInitializer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\DALTests\\TestDataInitializer.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAAF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:56:44.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FlightRepoTest.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\DALTests\\FlightRepoTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\DALTests\\FlightRepoTest.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\DALTests\\FlightRepoTest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\DALTests\\FlightRepoTest.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwDEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T20:44:52.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FlightDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL.Models\\FlightDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL.Models\\FlightDbContext.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL.Models\\FlightDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL.Models\\FlightDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T16:40:25.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\UserRepo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\UserRepo.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL\\UserRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:56:06.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FlightRepo.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\FlightRepo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL\\FlightRepo.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\FlightRepo.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL\\FlightRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:55:59.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BaseRepo.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\BaseRepo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL\\BaseRepo.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\BaseRepo.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL\\BaseRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:53:53.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AirportsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\AirportsRepo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL\\AirportsRepo.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\AirportsRepo.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL\\AirportsRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:53:50.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\OneDrive\\Pulpit\\FlightControl\\source\\FlightControl\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jedyn\\OneDrive\\Pulpit\\FlightControl\\source\\FlightControl\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T16:06:19.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AirportDTOFlights.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\OneDrive\\Pulpit\\FlightControl\\source\\FlightControl\\DTOs\\AirportDTOFlights.cs",
+              "RelativeDocumentMoniker": "DTOs\\AirportDTOFlights.cs",
+              "ToolTip": "C:\\Users\\jedyn\\OneDrive\\Pulpit\\FlightControl\\source\\FlightControl\\DTOs\\AirportDTOFlights.cs",
+              "RelativeToolTip": "DTOs\\AirportDTOFlights.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T14:49:01.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AirportDTO.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\OneDrive\\Pulpit\\FlightControl\\source\\FlightControl\\DTOs\\AirportDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\AirportDTO.cs",
+              "ToolTip": "C:\\Users\\jedyn\\OneDrive\\Pulpit\\FlightControl\\source\\FlightControl\\DTOs\\AirportDTO.cs",
+              "RelativeToolTip": "DTOs\\AirportDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T13:59:44.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FlightControl.Test.csproj",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.Test\\FlightControl.Test.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.Test\\FlightControl.Test.csproj",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.Test\\FlightControl.Test.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.Test\\FlightControl.Test.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T15:16:26.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\jedyn\\OneDrive\\Pulpit\\FlightControl\\source\\FlightControl\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\jedyn\\OneDrive\\Pulpit\\FlightControl\\source\\FlightControl\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-19T16:18:32.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IAirportsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\Interfaces\\IAirportsRepo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL\\Interfaces\\IAirportsRepo.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\Interfaces\\IAirportsRepo.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL\\Interfaces\\IAirportsRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T12:07:59.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IFlightRepo.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\Interfaces\\IFlightRepo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL\\Interfaces\\IFlightRepo.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\Interfaces\\IFlightRepo.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL\\Interfaces\\IFlightRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T09:46:27.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jedyn\\OneDrive\\Pulpit\\FlightControl\\source\\FlightControl\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\jedyn\\OneDrive\\Pulpit\\FlightControl\\source\\FlightControl\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-19T16:18:29.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FlightControl.DAL.Models.csproj",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL.Models\\FlightControl.DAL.Models.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL.Models\\FlightControl.DAL.Models.csproj",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL.Models\\FlightControl.DAL.Models.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL.Models\\FlightControl.DAL.Models.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-19T16:35:55.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FlightControl.http",
+              "DocumentMoniker": "C:\\Users\\jedyn\\OneDrive\\Pulpit\\FlightControl\\source\\FlightControl\\FlightControl.http",
+              "RelativeDocumentMoniker": "FlightControl.http",
+              "ToolTip": "C:\\Users\\jedyn\\OneDrive\\Pulpit\\FlightControl\\source\\FlightControl\\FlightControl.http",
+              "RelativeToolTip": "FlightControl.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-19T16:30:25.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\Interfaces\\IRepo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL\\Interfaces\\IRepo.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\Interfaces\\IRepo.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL\\Interfaces\\IRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T09:46:25.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IUserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\Interfaces\\IUserRepo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL\\Interfaces\\IUserRepo.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.DAL\\Interfaces\\IUserRepo.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.DAL\\Interfaces\\IUserRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T09:46:26.26Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

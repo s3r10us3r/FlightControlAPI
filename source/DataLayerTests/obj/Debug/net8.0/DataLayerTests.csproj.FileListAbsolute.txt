@@ -1,0 +1,5 @@
+C:\Users\jedyn\source\repos\DataLayerTests\obj\Debug\net8.0\DataLayerTests.csproj.AssemblyReference.cache
+C:\Users\jedyn\source\repos\DataLayerTests\obj\Debug\net8.0\DataLayerTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jedyn\source\repos\DataLayerTests\obj\Debug\net8.0\DataLayerTests.AssemblyInfoInputs.cache
+C:\Users\jedyn\source\repos\DataLayerTests\obj\Debug\net8.0\DataLayerTests.AssemblyInfo.cs
+C:\Users\jedyn\source\repos\DataLayerTests\obj\Debug\net8.0\DataLayerTests.csproj.CoreCompileInputs.cache
