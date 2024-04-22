@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlightControl")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a9e1ca5d302390fec9ceebe158a2c673a9727b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlightControl")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlightControl")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

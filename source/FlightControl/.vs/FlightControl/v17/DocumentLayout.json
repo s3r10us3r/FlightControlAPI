@@ -485,32 +485,8 @@
         },
         {
           "DockedWidth": 210,
-          "SelectedChildIndex": 19,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "AutControllerTest.cs",
-              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.Test\\AutControllerTest.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.Test\\AutControllerTest.cs",
-              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.Test\\AutControllerTest.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.Test\\AutControllerTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T19:08:22.842Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "MockConfig.cs",
-              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.Test\\MockConfig.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.Test\\MockConfig.cs",
-              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.Test\\MockConfig.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.Test\\MockConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T19:10:40.614Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 34,
@@ -521,8 +497,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.Test\\MockLogger.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T17:11:31.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T17:11:31.192Z"
             },
             {
               "$type": "Document",
@@ -547,6 +522,43 @@
               "ViewState": "AQIAADUAAAAAAAAAAAAAABsAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T11:09:01.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\OneDrive\\Pulpit\\FlightControl\\source\\FlightControl\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jedyn\\OneDrive\\Pulpit\\FlightControl\\source\\FlightControl\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T16:06:19.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MockConfig.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.Test\\MockConfig.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.Test\\MockConfig.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.Test\\MockConfig.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.Test\\MockConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:10:40.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AutControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\jedyn\\source\\repos\\FlightControl.Test\\AutControllerTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.Test\\AutControllerTest.cs",
+              "ToolTip": "C:\\Users\\jedyn\\source\\repos\\FlightControl.Test\\AutControllerTest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\FlightControl.Test\\AutControllerTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:08:22.842Z"
             },
             {
               "$type": "Document",
@@ -715,18 +727,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T14:53:50.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jedyn\\OneDrive\\Pulpit\\FlightControl\\source\\FlightControl\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\jedyn\\OneDrive\\Pulpit\\FlightControl\\source\\FlightControl\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T16:06:19.624Z"
             },
             {
               "$type": "Document",
